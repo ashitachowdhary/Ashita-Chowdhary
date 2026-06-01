@@ -20,7 +20,8 @@
 - Web-based project focused on improving waste collection and management
 ### 2)Campus Hub
 - College Community Platform
-- 
+- Helps students connect and share information
+- Focused on simple and useful campus interaction
 ## 📫 Connect With Me
 
 🔗 GitHub: [Ashita-Chowdhary](https://github.com/ashitachowdhary)  
