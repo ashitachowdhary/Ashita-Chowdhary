@@ -16,9 +16,9 @@
 
 ## 🚀 Projects
 
-### 1)Smart Waste Management System
+#### 1)Smart Waste Management System
 - Web-based project focused on improving waste collection and management
-### 2)Campus Hub
+#### 2)Campus Hub
 - College Community Platform
 - Helps students connect and share information
 - Focused on simple and useful campus interaction
